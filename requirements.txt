@@ -1,2 +1,8 @@
 aiohttp
 requests
+protobuf
+grpcio
+psutil
+distro
+grpcio-tools
+ptyprocess
