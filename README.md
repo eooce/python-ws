@@ -1,7 +1,9 @@
 <div align="center">
 
 # Python-ws
-基于python serverless实现的vless+trojan+shadowsocks三协议，轻量，无内核。
+此分支为哪吒v1的python重写版+ws，无二进制。基于python serverless实现的vless+trojan+shadowsocks三协议，轻量，无内核。
+
+
 
 ---
 
